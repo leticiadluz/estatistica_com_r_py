@@ -6,3 +6,12 @@ além de testes de hipóteses.
 
 O primeiro tópico **Análise combinatória e Probabilidades** foi realizado em ýthon e você pode acessá-lo
 [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
+
+## Ferramentas utilizadas
+
+* Jupyter Notebook
+
+## Linguagem utilizada
+
+* R
+* Python
