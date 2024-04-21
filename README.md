@@ -15,7 +15,7 @@ O segundo tópico **Variáveis aleatórias discretas e suas distribuições** fo
 [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 Este notebook aborda diversos conceitos e aplicações relacionadas a variáveis aleatórias discretas, como a distribuição binomial, de Poisson, de Bernoulli, além de discutir aspectos como valor esperado, variância, função de distribuição acumulada (FDA) e função de massa de probabilidade (PMF).
 
-O quarto tópico **Estatística Descritiva** foi realizado em R e você pode acessá-lo [neste link(https://github.com/leticiadluz/estatistica_com_r_py/blob/main/estatistica_descritiva_R.ipynb)
+O quarto tópico **Estatística Descritiva** foi realizado em R e você pode acessá-lo [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/estatistica_descritiva_R.ipynb)
 Este notebook explora diversos tópicos fundamentais da estatística descritiva como Medidas de posição: média, mediana, moda, valor máximo, valor mínimo, amplitude e quantis empíricos e 
 Medidas de dispersão: desvio padrão, variância e coeficiente de variação. Descrevemos também sobre simetria dos Dados.
 
