@@ -15,6 +15,10 @@ O segundo tópico **Variáveis aleatórias discretas e suas distribuições** fo
 [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 Este notebook aborda diversos conceitos e aplicações relacionadas a variáveis aleatórias discretas, como a distribuição binomial, de Poisson, de Bernoulli, além de discutir aspectos como valor esperado, variância, função de distribuição acumulada (FDA) e função de massa de probabilidade (PMF).
 
+O quarto tópico **Estatística Descritiva** foi realizado em R e você pode acessá-lo [neste link(https://github.com/leticiadluz/estatistica_com_r_py/blob/main/estatistica_descritiva_R.ipynb)
+Este notebook explora diversos tópicos fundamentais da estatística descritiva como Medidas de posição: média, mediana, moda, valor máximo, valor mínimo, amplitude e quantis empíricos e 
+Medidas de dispersão: desvio padrão, variância e coeficiente de variação. Descrevemos também sobre simetria dos Dados.
+
 O sétimo tópico **Teste de Qui-quadrado** foi realizado em R e você pode acessá-lo [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/teste_qui_quadrado_R.ipynb)  
 O objetivo é empregar o teste qui-quadrado para investigar a associação entre variáveis categoricas. O teste qui-quadrado é uma ferramenta que nos auxilia a certificar se existe uma relação estatisticamente significativa entre as variáveis analisadas, fornecendo insights sobre possíveis padrões ou dependências entre elas. Essa abordagem estatística é fundamental para a compreensão mais aprofundada do conjunto de dados e pode orientar decisões informadas com base nas relações identificadas.
 
