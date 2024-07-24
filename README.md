@@ -1,6 +1,6 @@
 # Estatística com R e Python
 
-O propósito deste pequeno projeto é proporcionar uma visão geral abrangente dos principais conceitos da estatística, com foco na aplicação da linguagem R e Python. 
+O propósito deste projeto é proporcionar uma visão geral abrangente dos principais conceitos da estatística, com foco na aplicação da linguagem R e Python. 
 Exploramos tópicos fundamentais, incluindo análise combinatória, probabilidades, estatística descritiva para variáveis quantitativas e qualitativas e variáveis aleatórias discretas e suas distribuições de probabilidade.
 
 O primeiro tópico **Estatística Descritiva para Variáveis Aleatórias** foi realizado em Python e você pode acessá-lo
