@@ -3,6 +3,11 @@
 O propósito deste pequeno projeto é proporcionar uma visão geral abrangente dos principais conceitos da estatística, com foco na aplicação da linguagem R e Python. 
 Exploramos tópicos fundamentais, incluindo análise combinatória, probabilidades, estatística descritiva para variáveis quantitativas e qualitativas e variáveis aleatórias discretas e suas distribuições de probabilidade.
 
+O primeiro tópico **Estatística Descritiva para Variáveis Aleatórias** foi realizado em Python e você pode acessá-lo
+[neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
+Este notebook aborda diversos aspectos relacionados aos tipos de variáveis, com um foco especial nas variáveis qualitativas. Inicialmente, é feita uma classificação das variáveis em duas grandes categorias: qualitativas e quantitativas. O conteúdo se aprofunda nas variáveis qualitativas, detalhando suas subcategorias e características. O notebook segue apresentando estatísticas descritivas para variáveis qualitativas, destacando as distribuições de frequências. Além das tabelas de distribuição de frequências, o notebook demonstra como criar gráficos de barras para visualizar dados categóricos. 
+
+
 O primeiro tópico **Análise combinatória e Probabilidades** foi realizado em Python e você pode acessá-lo
 [neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
 Este notebook aborda diversos tópicos e aplicações da Análise Combinatória como: Princípio Fundamental da Contagem, Fatorial, Permutação Simples, Permutações com Repetições e 
