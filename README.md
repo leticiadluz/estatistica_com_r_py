@@ -22,8 +22,8 @@ No tópico Probabilidade foram abordados os seguintes temas: Conceitos fundament
 Probabilidade da União de Eventos, Probabilidade de Intersecção de Eventos, Probabilidade Condicional, Probabilidade Total e Teorema de Bayes.
 
 O segundo tópico **Variáveis aleatórias discretas e suas distribuições** foi realizado em R e você pode acessá-lo
-[neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
-Este notebook aborda diversos conceitos e aplicações relacionadas a variáveis aleatórias discretas, como a distribuição binomial, de Poisson, de Bernoulli, além de discutir aspectos como valor esperado, variância, função de distribuição acumulada (FDA) e função de massa de probabilidade (PMF).
+[neste link.](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
+Este notebook aborda a análise de variáveis aleatórias discretas e suas distribuições de probabilidade, apresentando conceitos fundamentais e suas aplicações práticas. São discutidos tópicos como a definição de variáveis aleatórias discretas, cálculo do valor esperado (médio) e da variância de uma variável aleatória discreta, além de explorar a função de distribuição acumulada e a função de massa de probabilidade. São detalhadas as mais importantes distribuições para variáveis aleatórias discretas, incluindo as distribuições de Bernoulli, Binomial, Hipergeométrica e Poisson. 
 
 
 ## Ferramentas utilizadas
